@@ -1,4 +1,5 @@
 # time-series-forecating
+Версия Python 3.9.16
 ```
 python -m venv .venv
 source .venv/bin/activate
